@@ -1,15 +1,6 @@
-Welcome to your new dbt project!
+DBT for Airbyte
 
-### Using the starter project
-
-Try running the following commands:
-- dbt run
-- dbt test
-
-
-### Resources:
-- Learn more about dbt [in the docs](https://docs.getdbt.com/docs/introduction)
-- Check out [Discourse](https://discourse.getdbt.com/) for commonly asked questions and answers
-- Join the [chat](https://community.getdbt.com/) on Slack for live discussions and support
-- Find [dbt events](https://events.getdbt.com) near you
-- Check out [the blog](https://blog.getdbt.com/) for the latest news on dbt's development and best practices
+This DBT is a test version for a data-driven company.
+One of the most important things is schema.yml.
+Your chosen data based on schema via Airbyte will be pushed
+into your chosen database. In this case it's BigQ.
